@@ -1,12 +1,9 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://user-images.githubusercontent.com/21126965/61477411-cc62b200-a9ac-11e9-9f54-be17395992b0.png" width="60" />
+    <img alt="Gatsby" src="https://user-images.githubusercontent.com/21126965/61477411-cc62b200-a9ac-11e9-9f54-be17395992b0.png" width="100" />
   </a>
 </p>
-<h1 align="center">
-  KRISP
-</h1>
 
 A Minimal, Clean, Responsive Starter built with Gatsby
 
