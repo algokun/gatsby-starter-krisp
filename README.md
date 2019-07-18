@@ -1,6 +1,6 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
-  <a href="https://www.gatsbyjs.org">
+  <a href="https://gatsby-starter-krisp.netlify.com/">
     <img alt="Gatsby" src="https://user-images.githubusercontent.com/21126965/61477411-cc62b200-a9ac-11e9-9f54-be17395992b0.png" width = "150" />
   </a>
   <br/>
