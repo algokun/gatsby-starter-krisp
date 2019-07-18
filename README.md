@@ -3,6 +3,7 @@
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://user-images.githubusercontent.com/21126965/61477411-cc62b200-a9ac-11e9-9f54-be17395992b0.png" width="100" />
   </a>
+  <br/>
   A Minimal, Clean, Responsive Starter built with Gatsby
 </p>
 
@@ -14,8 +15,7 @@
     Use the Gatsby CLI to create a new site, specifying the default starter.
 
     ```sh
-    # create a new Gatsby site using the default starter
-    gatsby new my-default-starter https://github.com/mohanmonu777/gatsby-starter-krisp.git
+    gatsby new your-site-name https://github.com/mohanmonu777/gatsby-starter-krisp.git
     ```
 
 1.  **Start developing.**
